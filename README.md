@@ -1,8 +1,8 @@
-# Medical FHIR Pipeline
+# HealthScript AI
 
 ## Project Description
 
-The **Medical FHIR Pipeline** is an innovative solution for digitizing handwritten medical prescriptions commonly used in Indian hospitals. This pipeline integrates Optical Character Recognition (OCR), speech-to-text transcription, and machine learning models to convert unstructured medical data into a structured FHIR-compliant digital format. The pipeline enhances the accuracy and accessibility of medical information, supporting healthcare providers, pharmacies, and patients.
+The **HealthScript AI** is an innovative solution for digitizing handwritten medical prescriptions commonly used in Indian hospitals. This pipeline integrates Optical Character Recognition (OCR), speech-to-text transcription, and machine learning models to convert unstructured medical data into a structured FHIR-compliant digital format. The pipeline enhances the accuracy and accessibility of medical information, supporting healthcare providers, pharmacies, and patients.
 
 ## Features
 
