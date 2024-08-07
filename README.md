@@ -46,11 +46,38 @@ To set up the Medical FHIR Pipeline locally, follow these steps:
 
  # Install Dependencies
  pip install -r requirements.txt
+```
 
+## Output Structure
+``` bash
+{
+  "Patient": {
+    "Name": "Rajesh Kumar",
+    "Age": "45",
+    "Symptoms": "Fever, Cough, Headache"
+  },
+  "Diagnosis": "Viral Fever",
+  "Medicines": [
+    {
+      "Name": "Amoxicillin 500mg",
+      "Dosage": "Three times a day",
+      "Instructions": "After meals"
+    },
+    {
+      "Name": "Paracetamol 500mg",
+      "Dosage": "Once a day",
+      "Instructions": "Before bedtime"
+    }
+  ],
+  "Doctor": "Dr. A. Sharma"
+}
+```
 
+## Technologies Used
 
-
-
-
-
-
+# Python: Programming language for core logic.
+# OpenCV: Image processing library.
+# Document AI: OCR tool for text extraction.
+# Whisper V3: Audio-to-text transcription model.
+# GPT-4o and Claude Opus: Advanced language models for analysis.
+# FHIR: Standard for healthcare information exchange.
