@@ -75,9 +75,9 @@ To set up the Medical FHIR Pipeline locally, follow these steps:
 
 ## Technologies Used
 
-# Python: Programming language for core logic.
-# OpenCV: Image processing library.
-# Document AI: OCR tool for text extraction.
-# Whisper V3: Audio-to-text transcription model.
-# GPT-4o and Claude Opus: Advanced language models for analysis.
-# FHIR: Standard for healthcare information exchange.
+Python: Programming language for core logic.
+OpenCV: Image processing library.
+Document AI: OCR tool for text extraction.
+Whisper V3: Audio-to-text transcription model.
+GPT-4o and Claude Opus: Advanced language models for analysis.
+FHIR: Standard for healthcare information exchange.
